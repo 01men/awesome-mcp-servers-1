@@ -206,6 +206,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://aiops.drdroid.io/favicon.ico" height="14"/> [Signoz](https://github.com/DrDroidLab/signoz-mcp-server) - Comprehensive integration with [Signoz APIs](https://signoz.io/docs/userguide/apis/) and [documentation](https://signoz.io/docs/) for monitoring, observability, and debugging tasks related to your Signoz instances.
 - <img src="https://avatars.githubusercontent.com/u/174736222?s=200&v=4" height="14"/> [VictoriaMetrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) - Comprehensive integration with [VictoriaMetrics APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances.
 
+- <img src="https://avatars.githubusercontent.com/u/50007355?s=200&v=4" height="14"/> [YBK](https://github.com/01men/ybkkasi) - Self-hosted control plane that turns MCP servers, skills, agents and AI apps into governed assets — one identity, one permission model, one metering pipeline, one audit trail. 27 plugin packages, 84 permission points, 83 MCP tools with declared minimum scopes, 1467 end-to-end assertions green. Cost attribution by department × agent × skill. MIT licensed.
 <br />
 
 ## 🔍 <a name="search-web"></a>Search & Web
